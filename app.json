@@ -8,7 +8,7 @@
     ],
   "repository": "https://github.com/anonyindian/AccountGeneratorBot",
   "website": "https://t.me/xnony",
-  "success_url": "https://t.me/StarDevs",
+  "success_url": "https://t.me/slbotzone",
   "env": {
     "TOKEN": {
       "description": "Bot Token, Get It From @BotFather.",
